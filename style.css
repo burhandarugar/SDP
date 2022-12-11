@@ -1,0 +1,108 @@
+body {
+	background-color: gray;
+    color:#fff;
+    padding: 10px;
+	font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
+		Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+	line-height: 1.6;
+	font-size: 18px;
+}
+a {
+    color:white;
+    text-decoration: none;
+    padding:5px;
+}
+
+#name{
+    background:#333;
+    width: 1250px;
+    margin:30px auto;
+    overflow:hidden;
+    padding:20px;
+}
+#animal ul {
+    padding:0;
+    padding-top: 10px;
+    padding-left:10px;
+
+}
+#animal {
+        height:40px;
+        background:#666;
+}
+#animal li{
+    list-style: none;
+    float:left;
+    padding-right: 20px;
+}
+#animal .size{
+    color:black;
+    font-weight: bold;
+}
+#main{
+    float: left;
+    width:50%;
+    overflow: hidden;
+}
+#sidebar{
+    float:right;
+    width:30%;
+    background:#666;
+    padding-right: 15px;
+    margin-top: 20px;
+    padding-left: 15px;
+}
+.clr{
+    clear: both;
+}
+#footer{
+    background-color: #666;
+    width:12%;
+    padding-left: 13px;
+}
+#chair ul{
+    list-style: none;
+    float:left;
+    padding-right: 20px;
+   width: 30%;
+}
+.leg{
+    color:white;
+    font-weight: bold;
+}
+input{
+    width:60%;
+    padding:5px;
+    margin-bottom: 15px;
+}
+#place{
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#scam ul {
+    padding:0;
+    padding-top: 10px;
+    padding-left:10px;
+
+}
+#scam {
+        height:40px;
+        
+        width:60%
+}
+#scam li{
+    list-style: none;
+    float:left;
+    padding-right: 20px;
+    font-style: italic;
+}
+#scam {
+    color:white;
+    font-weight: bold;
+}
+#mai{
+    float: left;
+    width: 80%;
+    overflow: auto;
+}
